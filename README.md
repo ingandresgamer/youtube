@@ -38,7 +38,7 @@ Cada carpeta de tutorial contiene:
 
 ### 🔗 Enlace al Canal de YouTube
 
-Para una comprensión completa y guía paso a paso sobre cómo usar estos recursos, visita y suscríbete a nuestro canal de YouTube: [https://youtube.com/@ingandresgamer8425?si=6pnxhg48VUdQKHsG](#).
+Para una comprensión completa y guía paso a paso sobre cómo usar estos recursos, visita y suscríbete a nuestro canal de YouTube: [Link al Canal](https://youtube.com/@ingandresgamer8425?si=6pnxhg48VUdQKHsG).
 
 ### 🌟 Apóyanos
 
