@@ -1,8 +1,8 @@
 # Repositorio de Tutoriales de YouTube 📹
 
-## 🚀 Bienvenido/a al repositorio de [Nombre del Canal]!
+## 🚀 Bienvenido/a al repositorio de ingandresgamer!
 
-Este repositorio es un almacén de todos los códigos, recursos y archivos auxiliares utilizados en nuestros tutoriales de YouTube en el canal [Nombre del Canal].
+Este repositorio es un almacén de todos los códigos, recursos y archivos auxiliares utilizados en nuestros tutoriales de YouTube en el canal ingandresgamer.
 
 ### 📘 ¿Qué puedes encontrar aquí?
 
@@ -38,7 +38,7 @@ Cada carpeta de tutorial contiene:
 
 ### 🔗 Enlace al Canal de YouTube
 
-Para una comprensión completa y guía paso a paso sobre cómo usar estos recursos, visita y suscríbete a nuestro canal de YouTube: [Enlace al Canal](#).
+Para una comprensión completa y guía paso a paso sobre cómo usar estos recursos, visita y suscríbete a nuestro canal de YouTube: [https://youtube.com/@ingandresgamer8425?si=6pnxhg48VUdQKHsG](#).
 
 ### 🌟 Apóyanos
 
@@ -46,7 +46,7 @@ Para una comprensión completa y guía paso a paso sobre cómo usar estos recurs
 
 - ⭐ Dale una estrella a este repositorio si te resulta útil.
 - 📢 Comparte nuestros tutoriales con tus amigos y en tus redes sociales.
-- 💬 Únete a nuestra comunidad en Discord/Slack para estar al tanto de las últimas noticias y discusiones.
+
 
 ### 🛠️ Contribuir
 
@@ -57,9 +57,8 @@ Nos encantaría ver tus contribuciones! Si has encontrado un error o tienes algu
 ### 👥 Contacto
 
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de:
-- 📧 Email: [tuemail@email.com](mailto:tuemail@email.com)
-- 📸 Instagram: [@nombredeusuario](https://instagram.com/nombredeusuario)
-- 🐦 Twitter: [@nombredeusuario](https://twitter.com/nombredeusuario)
+- 📧 Email: [ingandresgamer@gmail.com](mailto:ingandresgamer14@gmail.com)
+- 📸 Instagram: [@ingnadresgamer](https://instagram.com/ingandresgamer)
 
 ### 📜 Licencia
 
@@ -69,6 +68,6 @@ Este repositorio está licenciado bajo la licencia MIT. Consulta el archivo [`LI
 
 🚀 ¡Gracias por visitar nuestro repositorio y no olvides visitar nuestro canal de YouTube para más contenido increíble!
 
-[Nombre del Canal] Team 💖
+
 
 
